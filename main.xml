@@ -1,4 +1,89 @@
+ <dir>
+    <title>actors (2)</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/actors%20(2).xml</link>
+</dir>
+
+<dir>
+<title>Hood movies</title>
+<tmdb>list/https://www.themoviedb.org/list/47832</tmdb>
+</dir>
+
+<dir>
+<title>Tylr Perry movies</title>
+<tmdb>list/https://www.themoviedb.org/list/48265</tmdb>
+</dir
+
+<dir>
+<title>Urban movies</title>
+<tmdb>list/https://www.themoviedb.org/list/48024</tmdb>
+</dir>
+
+<dir>
+<title>Urban Drama/action</title>
+<tmdb>list/https://www.themoviedb.org/list/48098</tmdb>
+</dir>
+
+<dir>
+<title>Urban comedy movies</title>
+<tmdb>list/https://www.themoviedb.org/list/48100</tmdb>
+</dir>
+
+<dir>
+<title>Urban love</title>
+<tmdb>list/https://www.themoviedb.org/list/48099</tmdb>
+</dir>
+
+<dir>
+<title>Comedy movies</title>
+<tmdb>list/https://www.themoviedb.org/list/47834</tmdb>
+</dir>
+
+<dir>
+<title>Comedy</title>
+<tmdb>list/https://www.themoviedb.org/list/47754</tmdb>
+</dir>
+
+<dir>
+<title>DC</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
+</dir>
+
+<dir>
+<title>Trapper tv shows</title>
+<tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
+</dir>
+
+<dir>
+<title>animes tv</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
+</dir>
+
+<dir>
+<title>Urban</title>
+<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
+</dir>
+
+<dir>
+    <title>Movie Genres</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
+  </dir>
   
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
+ 
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
+
+<dir>
+	<title>IMDB Action TV Shows</title>
+	<imdburl>genres/action</imdburl>
+	<thumbnail></thumbnail>
+</dir>
+
 <dir>
 <title>Search TMDB</title>
 <tmdb>search</tmdb>
