@@ -1,0 +1,2 @@
+# collector
+test add-on
