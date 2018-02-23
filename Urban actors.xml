@@ -13,7 +13,7 @@
 <dir>
   <title>Dwayne Johnson</title>
   <tmdb>person/movies/18918</tmdb>
-  <thumbnail>http://projectrockofficial.com/images/overlay_rock.jpg</thumbnail>
+  <thumbnail>https://image.tmdb.org/t/p/original/akweMz59qsSoPUJYe7QpjAc2rQp.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -47,9 +47,9 @@
 </dir>
 
 <dir>
-  <title>Ryan Reynolds</title>
-  <tmdb>person/movies/10859</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/h1co81QaT2nJA41Sb7eZwmWl1L2.jpg</thumbnail>
+  <title>Shawn Wayans</title>
+  <tmdb>person/movies/35690</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/9GHZOZMCsbQyESuMYtO7T7hs0lg.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -65,21 +65,21 @@
 </dir>
 
 <dir>
-  <title>Pierce Brosnan</title>
-  <tmdb>person/movies/517</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/1JXL0zrA26JjdoX8sqf57fJRDVM.jpg</thumbnail>
+  <title> Omari Hardwick </title>
+  <tmdb>person/movies/41556</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/gW4eSrYlyFhuC4QrMD0whDxA9DS.jpg</thumbnail>
 </dir>
 
 <dir>
-  <title>Anthony Hopkins</title>
-  <tmdb>person/movies/4173</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/jdoBTIru71FbPuHGEgox5RVmIO0.jpg</thumbnail>
+  <title>Tyrese Gibson</title>
+  <tmdb>person/movies/8169</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/a3tyF7QXgeEH0QuEuIzNZZ8oLNS.jpg</thumbnail>
 </dir>
 
 <dir>
-  <title>Tom Hardy</title>
-  <tmdb>person/movies/2524</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/4CR1D9VLWZcmGgh4b6kKuY2NOel.jpg</thumbnail>
+  <title>Michael Kenneth Williams</title>
+  <tmdb>person/movies/39390</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/kz602V53oUw2rkHZZdQqmltLImA.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -131,9 +131,9 @@
 </dir>
 
 <dir>
-<title>John Travolta</title>
-<tmdb>person/movies/8891</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/ns8uZHEHzV18ifqA9secv8c2Ard.jpg</thumbnail>
+<title>Terrence Howard</title>
+<tmdb>person/movies/18288</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/MZeLxOH0PgL7xcvt865WVBvQDw.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -143,9 +143,9 @@
 </dir>
 
 <dir>
-<title>Jennifer Aniston</title>
-<tmdb>person/movies/4491</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/4d4wvNyDuvN86DoneawbLOpr8gH.jpg</thumbnail>
+<title>Shemar Moore</title>
+<tmdb>person/movies/50266</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/yHhjKqWqfyJbMMIhfLRDfigwm7L.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -197,9 +197,9 @@
 </dir>
 
 <dir>
-<title> Cameron Diaz </title>
-<tmdb>person/movies/6941</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/ahFkUN9Sm8oF1txUHE5JcJ95Ere.jpg</thumbnail>
+<title>Clifton Powell</title>
+<tmdb>person/movies/58924</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/hBw76xJtCwKS2v5rZtzDBqvKLN6.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -227,9 +227,9 @@
 </dir>
 
 <dir>
-<title> Ming-Na Wen </title>
-<tmdb>person/movies/21702</tmdb>
-<thumbnail>https://image.tmdb.org/t/p/original/916sVknhRRxUkr70sxqa5AQvyJP.jpg</thumbnail>
+<title> Mo'Nique </title>
+<tmdb>person/movies/60561</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/2oXH2sx32C3w7t7HmorpPNGCUgG.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -260,6 +260,108 @@
 <title>Kevin James</title>
 <tmdb>person/movies/32895</tmdb>
 <thumbnail>https://image.tmdb.org/t/p/original/bve9CJ1xHvyyHSH4LsasG0eEQaW.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Chris Tucker</title>
+<tmdb>person/movies/66</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/9RQvgEi1GnPK4QzqOGHL3jP3VZr.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Richard Pryor</title>
+<tmdb>person/movies/9309</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/hzJ3Q7wDLv4m82eMTbK2tzVzCHG.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Chris Rock</title>
+<tmdb>person/movies/2632</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/5JCYKerIL0SdiqygtLUpG9Sw37P.jpg</thumbnail>
+</dir>
+
+<dir>
+<title> Omar Epps </title>
+<tmdb>person/movies/4987</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/t4Qg5ANKK2idfOt4RzWzhiP7IEv.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Tupac Amaru Shakur</title>
+<tmdb>person/movies/54422</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/qPpFzmTKEcxEea6J4UTI5ic1tsf.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Taye Diggs</title>
+<tmdb>person/movies/17637</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/1g1demRAGhwdUpwi8PA0wgFe2IX.jpg</thumbnail>
+</dir>
+
+<dir>
+<title> Sanaa Lathan </title>
+<tmdb>person/movies/5411</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/hNGPCe0q8prMkBebLzpi2vBwEWr.jpg</thumbnail>
+</dir>
+
+<dir>
+<title> Meagan Good </title>
+<tmdb>person/movies/22122</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/9sfCm8aYHtmCzMouW7WHScICL34.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Paula Patton</title>
+<tmdb>person/movies/52851</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/rwAWiUbIPfFhMhCYtKk5U3b7MVi.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Brian J. White</title>
+<tmdb>person/movies/31137</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/A5xkyJ0hI6F81hHRm0xBOQEYonz.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Eriq La Salle</title>
+<tmdb>person/movies/23628</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/iUjzxU9h9omJ9OTVkXreu6Q7YsK.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Aldis Hodge</title>
+<tmdb>person/movies/83860</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/bwnP5uuAsJgceLF2kJbeMJN0ONP.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Monica Calhoun</title>
+<tmdb>person/movies/32646</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/yS9qr06QmFwgYNJR55vbPsNGvfK.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Davenia McFadden</title>
+<tmdb>person/movies/75620</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/uX5egRwfOly93uuJeSahVIxfLFV.jpg</thumbnail>
+</dir>
+
+<dir>
+<title> Beyoncé Knowles </title>
+<tmdb>person/movies/14386</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/xYCtL5BpQFALZGYibVPFsebUs6q.jpg</thumbnail>
+</dir>
+
+<dir>
+<title>Michael Ealy</title>
+<tmdb>person/movies/8177</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/oqzMgyxyZUjE8kTpjHhQ6YlMPov.jpg</thumbnail>
+</dir>
+
+<dir>
+<title> Tyler Perry </title>
+<tmdb>person/movies/80602</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/original/fdBvkrv4lSKZ97eDLpmjlK1Tnbx.jpg</thumbnail>
 </dir>
 
 <dir>
