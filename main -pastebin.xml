@@ -1,0 +1,82 @@
+<xml>
+dir>
+    <title>Formats</title>
+    <link>file://formats/main.xml</link>
+</dir>
+  
+<dir>
+    <title>[COLORgreenyellow]UPDATES: Click for info[/COLOR]</title>
+	<link>message(Welcome to roger,over)</link>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]M[COLOR snow]ovies[/COLOR]</title>
+    <link>http://fecklewick.uk/roger/movies/movies.xml</link>
+</dir>
+	
+<dir>
+    <title>[COLORgreenyellow]T[COLOR snow]v Shows[/COLOR]</title>
+    <link>http://fecklewick.uk/roger/tv/tv.xml</link>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]K[COLOR snow]idz Zone[/COLOR]</title>
+    <link>http://fecklewick.uk/roger/lists/kidsmain.xml</link>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]D[/COLOR][COLOR snow]ocumentary / Reality[/COLOR](factual)</title>
+    <link>http://fecklewick.uk/roger/docu/docus.xml</link>
+	<content></content>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]T[COLOR snow]v Channels[/COLOR]</title>
+    <link>http://fecklewick.uk/roger/tv/live.xml</link>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]S[COLOR snow]ports[/COLOR]</title>
+    <link>http://fecklewick.uk/roger/sports/sportsmain.xml</link>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]M[COLOR snow]usic[/COLOR]</title>
+    <link>http://fecklewick.uk/roger/music/music.xml</link>
+</dir>
+
+dir>
+	<title>[COLORgreenyellow]C[COLORsnow]ooking Zone[/COLOR]</title>
+	<link>http://fecklewick.uk/roger/cooking.xml</link>
+</dir>
+
+
+dir>
+    <title>[COLORgreenyellow]X[COLOR snow]treme Sports[/COLOR]</title>
+    <tmdb>list/40190</tmdb>
+</dir>
+
+dir>
+    <title>[COLORgreenyellow]G[COLOR snow]aming[/COLOR]</title>
+    <link>http://fecklewick.uk/roger/gaming/gaming.xml</link>
+</dir>
+
+<dir>
+    <name>[COLORgreenyellow]R[/COLOR][COLOR snow]equests[/COLOR]</name>
+    <link>http://fecklewick.uk/roger/requests.xml</link>
+</dir>
+
+<dir>
+    <title>[COLORgreenyellow]S[COLOR snow]earch[/COLOR]</title>
+    <tmdb>search</tmdb>
+</dir>
+
+<plugin>
+    <name>[COLORgreenyellow]S[COLOR snow]ettings[/COLOR]</name>
+    <link>plugin://plugin.video.roger/?action=openSettings</link>
+</plugin>
+
+<plugin>
+    <name>[COLORgreenyellow]T[COLOR snow]estings[/COLOR]</name>
+    <link>plugin://plugin.video.roger/?action=developer</link>
+</plugin>
